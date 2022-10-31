@@ -4,7 +4,4 @@
   <li>
     <a href="https://www.depressed.place">Depressed Place</a>
   </li>
-    <li>
-    <a href="https://www.damoon.email">Damoon Mail</a>
-  </li>
 </ul>
